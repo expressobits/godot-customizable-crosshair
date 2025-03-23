@@ -1,6 +1,7 @@
 # Uncomment if you want to see the cursor in the editor
 #@tool
 extends CenterContainer
+class_name CustomizableCrosshair
 
 @export_category("Crosshair settings")
 ## The thickness of the lines.
