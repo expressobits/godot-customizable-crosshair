@@ -195,11 +195,11 @@ func update_line_style(style: int):
 			return null
 		1:
 			return preload(
-				"res://addons/customizableCrosshair/crosshair/curves/arrow.tres"
+				"res://addons/godot-customizable-crosshair/crosshair/curves/arrow.tres"
 			)
 		2:
 			return preload(
-				"res://addons/customizableCrosshair/crosshair/curves/inverseArrow.tres"
+				"res://addons/godot-customizable-crosshair/crosshair/curves/inverseArrow.tres"
 			)
 		_:
 			return null
